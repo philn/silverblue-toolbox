@@ -4,10 +4,12 @@ direnv
 fish
 g++
 gcc
+git-cinnabar
 git-lfs
 graphviz
 jed
 lzip
 make
 pastebinit
+pipenv
 python-pip
