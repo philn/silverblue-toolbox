@@ -13,5 +13,9 @@ lzip
 make
 openssl-devel
 pastebinit
+perl-File-Compare
+perl-File-Copy
+perl-FindBin
+perl-IPC-Cmd
 python
 python-pip
