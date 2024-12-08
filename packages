@@ -1,4 +1,6 @@
 btop
+cairo-devel
+cairo-gobject-devel
 clang
 cmake
 direnv
@@ -7,6 +9,7 @@ g++
 gcc
 git-cinnabar
 git-lfs
+gobject-introspection-devel
 graphviz
 jed
 lzip
@@ -18,4 +21,5 @@ perl-File-Copy
 perl-FindBin
 perl-IPC-Cmd
 python
+python-devel
 python-pip
