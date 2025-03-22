@@ -8,7 +8,11 @@ gcc
 git-cinnabar
 git-lfs
 graphviz
+gstreamer1-plugins-bad-free
+gstreamer1-plugins-good
+gtk4
 jed
+libadwaita
 lzip
 make
 openssl-devel
@@ -18,4 +22,5 @@ perl-File-Copy
 perl-FindBin
 perl-IPC-Cmd
 python
+python-devel
 python-pip
