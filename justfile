@@ -1,9 +1,9 @@
 
-tag := "silverblue-toolbox:43"
+tag := "silverblue-toolbox:44"
 default_registry := "ghcr.io/philn"
 
 build:
-  podman pull registry.fedoraproject.org/fedora-toolbox:43
+  podman pull registry.fedoraproject.org/fedora-toolbox:44
   podman build -t {{tag}} .
 
 push registry=default_registry:
