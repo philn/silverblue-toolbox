@@ -1,11 +1,14 @@
 btop
 clang
 cmake
+dbus-tools
 direnv
 fish
 g++
 gcc
 git-lfs
+gobject-introspection
+gobject-introspection-devel
 graphviz
 gstreamer1-plugins-bad-free
 gstreamer1-plugins-good
@@ -13,8 +16,10 @@ gtk4
 host-spawn
 jed
 libadwaita
+libadwaita-devel
 lzip
 make
+ninja-build
 openssl-devel
 pastebinit
 perl-File-Compare
@@ -24,3 +29,5 @@ perl-IPC-Cmd
 python
 python-devel
 python-pip
+v4l-utils
+vorbis-tools
