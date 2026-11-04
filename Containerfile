@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/fedora-toolbox:44
+FROM registry.fedoraproject.org/fedora-toolbox:45
 
 COPY packages /
 RUN dnf -y install $(<packages)

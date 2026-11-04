@@ -5,7 +5,6 @@ direnv
 fish
 g++
 gcc
-git-cinnabar
 git-lfs
 graphviz
 gstreamer1-plugins-bad-free
