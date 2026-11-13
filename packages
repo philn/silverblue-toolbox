@@ -26,6 +26,7 @@ perl-File-Compare
 perl-File-Copy
 perl-FindBin
 perl-IPC-Cmd
+perl-Time-Piece
 python
 python-devel
 python-pip
